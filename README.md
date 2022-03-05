@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ko-development
+- 👋 Hi, I’m Kieran
 - 👀 I’m interested in HTML, CSS, Javascript and React
 - 🌱 I’m currently learning about React hooks
 - 💞️ I’m looking to collaborate on anything!
