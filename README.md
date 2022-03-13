@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kieran
 - 👀 I’m interested in HTML, CSS, Javascript and React
-- 🌱 I’m currently learning about React hooks
-- 💞️ I’m looking to collaborate on anything!
+- 🌱 I’m currently learning about Redux
+- 💞️ I’m looking to collaborate on Blockchain projects
 - 📫 How to reach me - https://www.linkedin.com/in/kieran-o%E2%80%99reilly-3821b2225/
 
 <!---
