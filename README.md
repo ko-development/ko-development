@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML, CSS, Javascript and React
 - 🌱 I’m currently learning about Redux
 - 💞️ I’m looking to collaborate on Blockchain projects
-- 📫 How to reach me - shorturl.at/hsuNS
+- 📫 How to reach me - https://www.linkedin.com/in/kieran-o%E2%80%99reilly-3821b2225/
 
 <!---
 ko-development/ko-development is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
